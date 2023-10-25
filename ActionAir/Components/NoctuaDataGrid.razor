@@ -1,0 +1,24 @@
+﻿
+@typeparam TItem
+
+<RadzenDataGrid
+    AllowAlternatingRows="true"
+    AllowColumnResize="true"
+    AllowFiltering="true"
+    AllowPaging="false"
+    AllowSorting="true"
+    Data="@Data"
+    FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive"
+    FilterMode="FilterMode.SimpleWithMenu"
+    PagerHorizontalAlign="HorizontalAlign.Left"
+    ShowPagingSummary="true"
+    Style="@Style"
+    TItem="TItem"
+>
+    <Columns>
+        @foreach (var fieldDescriptor in FieldViewDescriptors)
+        {
+            <RadzenDataGridColumn TItem="TItem" Property="@fieldDescriptor.Property" Filterable="@fieldDescriptor.Filterable" Title="@fieldDescriptor.Title" FormatString="@fieldDescriptor.FormatString" />
+        }
+    </Columns>
+</RadzenDataGrid>

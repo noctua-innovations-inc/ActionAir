@@ -1,0 +1,10 @@
+﻿@page "/"
+
+@using ActionAir.Components
+@using ActionAir.Models
+
+<PageTitle>IPSC Action Air</PageTitle>
+
+<h1>IPSC Action Air International Classifications</h1>
+
+<NoctuaDataGrid TItem="Classification" Data="@Classifications" Style="height: calc(100vh - 160px);" />

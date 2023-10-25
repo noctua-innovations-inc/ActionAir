@@ -1,0 +1,582 @@
+[
+{
+	"Division":"Classic",
+	"CompetitorId":"53FF983F1BC451403D7744DCE146A4B2",
+	"CompNm":"Chan, Chun Hin Justin",
+	"Region":"HKG",
+	"WorldGrade":100,
+	"WorldClassification":"GM",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"3E507B4B84410908FA9CF98694B76D3E",
+	"CompNm":"Sio, Chi Man",
+	"Region":"MAC",
+	"WorldGrade":100,
+	"WorldClassification":"GM",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"243CD3DE59B018883FC8DAC87ECD768E",
+	"CompNm":"Chan, Ka Chun Kenny",
+	"Region":"HKG",
+	"WorldGrade":100,
+	"WorldClassification":"GM",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"AB6EAA92DBA93FBB3516A517F455CD40",
+	"CompNm":"Chan, Chun Hin Justin",
+	"Region":"HKG",
+	"WorldGrade":99.01,
+	"WorldClassification":"GM",
+	"RegionGrade":99.01,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"C86BA6DDBB232B5B696FE58D6B54E093",
+	"CompNm":"Lai, Pak Lam",
+	"Region":"HKG",
+	"WorldGrade":94.41,
+	"WorldClassification":"M",
+	"RegionGrade":94.41,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"B2DD55E4D1E2E323977F5CB201FCC92E",
+	"CompNm":"Lei, Weng Hong",
+	"Region":"MAC",
+	"WorldGrade":87.66,
+	"WorldClassification":"M",
+	"RegionGrade":87.66,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"60A10A45451593090C4E596425EF93ED",
+	"CompNm":"Ng, Kwok Wai Ringo",
+	"Region":"HKG",
+	"WorldGrade":86.57,
+	"WorldClassification":"M",
+	"RegionGrade":86.57,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"B2B9CCE92BD30DA938B6F20356854CDA",
+	"CompNm":"Chan, Lai Hong Samson",
+	"Region":"HKG",
+	"WorldGrade":85.71,
+	"WorldClassification":"M",
+	"RegionGrade":85.71,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"98C2C0E88A9F41D0D098F88AF8A3DE29",
+	"CompNm":"Kung, Chun Wai Ben",
+	"Region":"HKG",
+	"WorldGrade":83.16,
+	"WorldClassification":"A",
+	"RegionGrade":83.16,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"E661CB24D688773A72C180855236185C",
+	"CompNm":"Ng, Man Kai Chris",
+	"Region":"CHN",
+	"WorldGrade":82.37,
+	"WorldClassification":"A",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"01CE5280633D1D285092C00201222A67",
+	"CompNm":"Li, Yu Ping",
+	"Region":"HKG",
+	"WorldGrade":80.15,
+	"WorldClassification":"A",
+	"RegionGrade":80.15,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"5A5280C069469A09D400588EFC8C816E",
+	"CompNm":"Tomanek, Rafal",
+	"Region":"POL",
+	"WorldGrade":79.61,
+	"WorldClassification":"A",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"E87D7320DB8C45FC13236D8FD58CE75D",
+	"CompNm":"Li, Chun Kui Eddie",
+	"Region":"HKG",
+	"WorldGrade":77.72,
+	"WorldClassification":"A",
+	"RegionGrade":77.72,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"EE6F97CE1917A2D443DAA74B86F08276",
+	"CompNm":"Fuk, Siu Cheung",
+	"Region":"HKG",
+	"WorldGrade":76.44,
+	"WorldClassification":"A",
+	"RegionGrade":76.44,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"687463CB69D0B70A4137908D0B5F655A",
+	"CompNm":"Loo, Chiu Chun",
+	"Region":"CHN",
+	"WorldGrade":75.23,
+	"WorldClassification":"A",
+	"RegionGrade":92.86,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"BBE8C190A14A6F1E54D508B7C0D07901",
+	"CompNm":"Wong, Kwok Kit",
+	"Region":"HKG",
+	"WorldGrade":75.21,
+	"WorldClassification":"A",
+	"RegionGrade":75.21,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"6DD83E656DEFC1B08E27C8BA4326EC04",
+	"CompNm":"Santos, Clyde",
+	"Region":"PHI",
+	"WorldGrade":75.07,
+	"WorldClassification":"A",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"83D6369ACA384C41AEAB32BEC94559B5",
+	"CompNm":"Wong, Kin Wai",
+	"Region":"HKG",
+	"WorldGrade":74.51,
+	"WorldClassification":"B",
+	"RegionGrade":74.51,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"0845A3E116123B1004853BAB5CD9ACF7",
+	"CompNm":"Lui, Wai Cheong",
+	"Region":"HKG",
+	"WorldGrade":73.72,
+	"WorldClassification":"B",
+	"RegionGrade":73.72,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"8DF50812C97A49F1244F1385CD9E9248",
+	"CompNm":"Chow, Siu Cheung",
+	"Region":"HKG",
+	"WorldGrade":71.95,
+	"WorldClassification":"B",
+	"RegionGrade":71.95,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"D753841DCA737BE06C566427465F85EB",
+	"CompNm":"Ho, Weng Hei",
+	"Region":"MAC",
+	"WorldGrade":69.64,
+	"WorldClassification":"B",
+	"RegionGrade":69.64,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"3945682BF2BFCC1334B1BE8D9266F58D",
+	"CompNm":"Marcos, Allen Paul",
+	"Region":"PHI",
+	"WorldGrade":69.49,
+	"WorldClassification":"B",
+	"RegionGrade":94.42,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"D2DC9CB76FE7FB5599A226A88A4CF21F",
+	"CompNm":"Beria, Sammuel",
+	"Region":"PHI",
+	"WorldGrade":69.12,
+	"WorldClassification":"B",
+	"RegionGrade":94.05,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"7DAC445E4B95CFBBFDF71B1E9F181442",
+	"CompNm":"Sien, William Junior",
+	"Region":"CHN",
+	"WorldGrade":68.95,
+	"WorldClassification":"B",
+	"RegionGrade":86.58,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"E63A2290CB2F1C0E3B8C92A2B1262C05",
+	"CompNm":"Cheng, Ho Fung",
+	"Region":"HKG",
+	"WorldGrade":68.64,
+	"WorldClassification":"B",
+	"RegionGrade":68.64,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"162DBA3A909D19FCE9E888272F033D39",
+	"CompNm":"Au, Io On",
+	"Region":"MAC",
+	"WorldGrade":68.53,
+	"WorldClassification":"B",
+	"RegionGrade":68.53,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"CCB1D823935E8D89FB45BF56F66C0A7D",
+	"CompNm":"Tsang, Shiu Keung",
+	"Region":"HKG",
+	"WorldGrade":68.51,
+	"WorldClassification":"B",
+	"RegionGrade":68.51,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"4DD964ACD5D49E31E54F7CCA44D1A923",
+	"CompNm":"Leung, Hui Wo Wallus",
+	"Region":"MAC",
+	"WorldGrade":68.25,
+	"WorldClassification":"B",
+	"RegionGrade":68.25,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"B2FDD82758A0DD23242D423227A11D1E",
+	"CompNm":"Makartsev, Artem D",
+	"Region":"RUS",
+	"WorldGrade":63.44,
+	"WorldClassification":"B",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"752F287E7E7AB2D46DEBDB6D0AC13CE7",
+	"CompNm":"Sung, Chieh",
+	"Region":"TPE",
+	"WorldGrade":62.58,
+	"WorldClassification":"B",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"9FA0A71CFEE84FD902EDCE7ED06F5C5B",
+	"CompNm":"Chang, Chi Keong",
+	"Region":"MAC",
+	"WorldGrade":61.84,
+	"WorldClassification":"B",
+	"RegionGrade":61.84,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"E661CB24D688773A72C180855236185C",
+	"CompNm":"Ng, Man Kai Chris",
+	"Region":"HKG",
+	"WorldGrade":60.93,
+	"WorldClassification":"B",
+	"RegionGrade":60.93,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"6026A5BEA19F6AA9B74B59045737DDFF",
+	"CompNm":"Racho Jr, Vicente Gregory",
+	"Region":"PHI",
+	"WorldGrade":59.91,
+	"WorldClassification":"C",
+	"RegionGrade":84.84,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"3EBAD5B5ECFDB27CA4E348E623E65544",
+	"CompNm":"Juurijoki, Roy",
+	"Region":"FIN",
+	"WorldGrade":58.36,
+	"WorldClassification":"C",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"41FE63BAA190243E75FAE4298B62CAE3",
+	"CompNm":"Wong, Gee Sang Masher",
+	"Region":"HKG",
+	"WorldGrade":58.04,
+	"WorldClassification":"C",
+	"RegionGrade":58.04,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"A56FB3662C698BB7F3FA25D9F694CD80",
+	"CompNm":"Law, Wai Kin Nilson",
+	"Region":"HKG",
+	"WorldGrade":56.68,
+	"WorldClassification":"C",
+	"RegionGrade":56.68,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"5AE9857AC3434E539A03B0B0C56515BA",
+	"CompNm":"Shmelev, Maksim O",
+	"Region":"RUS",
+	"WorldGrade":56.42,
+	"WorldClassification":"C",
+	"RegionGrade":92.98,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"5A0A0929C512963561ED9073A75FA24B",
+	"CompNm":"Medrano, Jonathan",
+	"Region":"PHI",
+	"WorldGrade":54.46,
+	"WorldClassification":"C",
+	"RegionGrade":79.39,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"5C1E3DA153EB8B5D2FFB6A59F8F835CF",
+	"CompNm":"Fedorova, Alena",
+	"Region":"RUS",
+	"WorldGrade":53.92,
+	"WorldClassification":"C",
+	"RegionGrade":90.48,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"FA4B7006DECD363EB5DB00CA9366C059",
+	"CompNm":"Klein, Matthias",
+	"Region":"GER",
+	"WorldGrade":51.43,
+	"WorldClassification":"C",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"57DD054D691F995AEA6F9BC9EFE06A6E",
+	"CompNm":"Ievlev, Aleksandr I",
+	"Region":"RUS",
+	"WorldGrade":49.29,
+	"WorldClassification":"C",
+	"RegionGrade":85.85,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"1BC98D6E9DB7B90EF943E48EEBB105C1",
+	"CompNm":"Kuznetsov, Pavel P",
+	"Region":"RUS",
+	"WorldGrade":47.38,
+	"WorldClassification":"C",
+	"RegionGrade":83.94,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"5E67BCD743689D56B8FA6E2A775B5791",
+	"CompNm":"Wu, Tao",
+	"Region":"CHN",
+	"WorldGrade":45.3,
+	"WorldClassification":"C",
+	"RegionGrade":62.93,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"F84563B4EBAB4DCCCE99095DEBD35F35",
+	"CompNm":"Wei, Xin",
+	"Region":"CHN",
+	"WorldGrade":44.38,
+	"WorldClassification":"C",
+	"RegionGrade":62.01,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"22B3269F634E8CF27785DD3AF895239A",
+	"CompNm":"Honrubia De La Cruz, Javier",
+	"Region":"ESP",
+	"WorldGrade":43.07,
+	"WorldClassification":"C",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"3FEF911AF317A7E259D0EF360E881C3E",
+	"CompNm":"Vasyeva, Vasilisa P",
+	"Region":"RUS",
+	"WorldGrade":42.38,
+	"WorldClassification":"C",
+	"RegionGrade":78.94,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"8B5AA484D04F754FF5AA4DD7EE1D630D",
+	"CompNm":"Jin, Yi",
+	"Region":"CHN",
+	"WorldGrade":41.54,
+	"WorldClassification":"C",
+	"RegionGrade":59.17,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"61055D5BA589F99204B8C9881076F3BA",
+	"CompNm":"Sarametsa, Juha",
+	"Region":"FIN",
+	"WorldGrade":41.46,
+	"WorldClassification":"C",
+	"RegionGrade":83.1,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"3C0216FF9600AC326D1CAE3A0CA3AA5D",
+	"CompNm":"Wu, Yin Zhao",
+	"Region":"CHN",
+	"WorldGrade":41.12,
+	"WorldClassification":"C",
+	"RegionGrade":58.75,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"A56C65A1A6D34B0FE86402EC1BA31A8B",
+	"CompNm":"Chang, Hai",
+	"Region":"CHN",
+	"WorldGrade":38.15,
+	"WorldClassification":"D",
+	"RegionGrade":55.78,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"D111AAC931682E56313EAF5352F5631F",
+	"CompNm":"Kimezhuk, Milana S",
+	"Region":"RUS",
+	"WorldGrade":38.1,
+	"WorldClassification":"D",
+	"RegionGrade":74.66,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"E157CD9751FBD60B08CFAA3D457C01D0",
+	"CompNm":"Leong, Chi Hung",
+	"Region":"MAC",
+	"WorldGrade":34.98,
+	"WorldClassification":"D",
+	"RegionGrade":34.98,
+	"RegionClassification":"D"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"0110FF91797A79855B32C9898092E5A1",
+	"CompNm":"Makartsev, Dmitriy E",
+	"Region":"RUS",
+	"WorldGrade":34.77,
+	"WorldClassification":"D",
+	"RegionGrade":71.33,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"687463CB69D0B70A4137908D0B5F655A",
+	"CompNm":"Loo, Chiu Chun",
+	"Region":"HKG",
+	"WorldGrade":31.12,
+	"WorldClassification":"D",
+	"RegionGrade":31.12,
+	"RegionClassification":"D"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"9A4D2252640C8EEF29FD9BD9DF73E916",
+	"CompNm":"Shipov, Daniil D",
+	"Region":"RUS",
+	"WorldGrade":28.96,
+	"WorldClassification":"D",
+	"RegionGrade":65.52,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"26ED181CE9869435594739302A30543C",
+	"CompNm":"Kulikova, Veronika A",
+	"Region":"RUS",
+	"WorldGrade":28.81,
+	"WorldClassification":"D",
+	"RegionGrade":65.37,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"A99A372AEDBF2688E187B6EBA286FA99",
+	"CompNm":"Lavrova, Elina V",
+	"Region":"RUS",
+	"WorldGrade":23.67,
+	"WorldClassification":"D",
+	"RegionGrade":60.23,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Classic",
+	"CompetitorId":"D93CFD875B9146D397F712BF802A36BF",
+	"CompNm":"Egorov, Daniil A",
+	"Region":"RUS",
+	"WorldGrade":20.49,
+	"WorldClassification":"D",
+	"RegionGrade":57.05,
+	"RegionClassification":"C"
+}
+]

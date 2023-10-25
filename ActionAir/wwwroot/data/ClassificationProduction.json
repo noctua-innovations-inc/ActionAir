@@ -1,0 +1,1362 @@
+[
+{
+	"Division":"Production",
+	"CompetitorId":"14BBC1847664A1023619CDD00ED28FA4",
+	"CompNm":"Chan, Yik Man",
+	"Region":"HKG",
+	"WorldGrade":100,
+	"WorldClassification":"GM",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"6EA582BC2BBDB4DCB3EEE7A0A56B634D",
+	"CompNm":"Li, Chak Sang",
+	"Region":"HKG",
+	"WorldGrade":98.12,
+	"WorldClassification":"GM",
+	"RegionGrade":98.12,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"F8C293320E0A81E166EA12FE92280794",
+	"CompNm":"Wong, Ka Lam Nicholas",
+	"Region":"HKG",
+	"WorldGrade":96.23,
+	"WorldClassification":"GM",
+	"RegionGrade":96.23,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"B01470AD384AA6207BDE7E78A8B4B9A1",
+	"CompNm":"Chow, Ka Chung",
+	"Region":"HKG",
+	"WorldGrade":95.75,
+	"WorldClassification":"GM",
+	"RegionGrade":95.75,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"60A10A45451593090C4E596425EF93ED",
+	"CompNm":"Ng, Kwok Wai Ringo",
+	"Region":"HKG",
+	"WorldGrade":91.72,
+	"WorldClassification":"M",
+	"RegionGrade":91.72,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"1D3F325F23ED5BC9562A7942903708B7",
+	"CompNm":"Lam, Cheuk Hin",
+	"Region":"HKG",
+	"WorldGrade":90.49,
+	"WorldClassification":"M",
+	"RegionGrade":90.49,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"E200D04CC5E0A54E98CB02BA07478A54",
+	"CompNm":"Ng, Chun Keung",
+	"Region":"HKG",
+	"WorldGrade":90.26,
+	"WorldClassification":"M",
+	"RegionGrade":90.26,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"1484BC1DF89641D94EC73016B5C5C1BF",
+	"CompNm":"Chan, Teng Hsiung",
+	"Region":"TPE",
+	"WorldGrade":90.24,
+	"WorldClassification":"M",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"C06F805FF8B18BA0090391EB7D7DAF26",
+	"CompNm":"Cheng, Jia Hua",
+	"Region":"TPE",
+	"WorldGrade":88.99,
+	"WorldClassification":"M",
+	"RegionGrade":98.75,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"2B66AFF558BF137DB7083C72329B5522",
+	"CompNm":"Leung, Kwan Kit",
+	"Region":"HKG",
+	"WorldGrade":88.09,
+	"WorldClassification":"M",
+	"RegionGrade":88.09,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"D2CE56B4A391105804DDCB4C644ABA42",
+	"CompNm":"Ching, Ho Wan Benny",
+	"Region":"HKG",
+	"WorldGrade":86.5,
+	"WorldClassification":"M",
+	"RegionGrade":86.5,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"CFB682F4210D2C452689CDE70C964BFD",
+	"CompNm":"Chi, John",
+	"Region":"TPE",
+	"WorldGrade":86.18,
+	"WorldClassification":"M",
+	"RegionGrade":95.94,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"A3E99941DE234C7015AA5E4A741E0020",
+	"CompNm":"Ho, Ka Kit",
+	"Region":"HKG",
+	"WorldGrade":86.13,
+	"WorldClassification":"M",
+	"RegionGrade":86.13,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"73B2BC2310DDD0A0CECB436DD9CB10B9",
+	"CompNm":"Lai, Yu Chen",
+	"Region":"TPE",
+	"WorldGrade":86.05,
+	"WorldClassification":"M",
+	"RegionGrade":95.81,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"3B65EE7131C28D16E60CC23A90C8F27D",
+	"CompNm":"Young, Wing Lai Johnny",
+	"Region":"HKG",
+	"WorldGrade":84.18,
+	"WorldClassification":"A",
+	"RegionGrade":84.18,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"1CAF7DAF19FB309A0EC1FD0DA0B41C7E",
+	"CompNm":"Chin, Chun Hei",
+	"Region":"HKG",
+	"WorldGrade":83.92,
+	"WorldClassification":"A",
+	"RegionGrade":83.92,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"7D7A570D47DEA56D612C789CD3782754",
+	"CompNm":"Kuo, Shih-ming",
+	"Region":"TPE",
+	"WorldGrade":83.28,
+	"WorldClassification":"A",
+	"RegionGrade":93.04,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"9FC0D3405B86C1FAEF2B3F84315921A7",
+	"CompNm":"Hung, Ping Ki Norman",
+	"Region":"HKG",
+	"WorldGrade":82.72,
+	"WorldClassification":"A",
+	"RegionGrade":82.72,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"94C732018DE7893B5C3875A141D6EB85",
+	"CompNm":"Potapenko, Evgeniy",
+	"Region":"RUS",
+	"WorldGrade":82.54,
+	"WorldClassification":"A",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"69489D5E266E0B399D387007121D9179",
+	"CompNm":"Chen, Zhi Sen",
+	"Region":"TPE",
+	"WorldGrade":82.5,
+	"WorldClassification":"A",
+	"RegionGrade":92.26,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"0E3121C26A9BF378A67F4C78B14204E3",
+	"CompNm":"Chiu, Chi Wai Kelvin",
+	"Region":"HKG",
+	"WorldGrade":75.27,
+	"WorldClassification":"A",
+	"RegionGrade":75.27,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"7A053BFA937A31947A748A36F37D949C",
+	"CompNm":"Neshel, Andrei",
+	"Region":"RUS",
+	"WorldGrade":75.07,
+	"WorldClassification":"A",
+	"RegionGrade":92.53,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"943B5CC1EBB7F03BE350270F2F71ABB8",
+	"CompNm":"Macros, Oliver Beryu",
+	"Region":"PHI",
+	"WorldGrade":74.73,
+	"WorldClassification":"B",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"B6C7507E07B21B3D75E29C089639E93D",
+	"CompNm":"Yiu, Pakman",
+	"Region":"TPE",
+	"WorldGrade":74.08,
+	"WorldClassification":"B",
+	"RegionGrade":83.84,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"AF015E31784D091EB4986DF2971DBFFF",
+	"CompNm":"Cheung, Tak Wai Helen",
+	"Region":"HKG",
+	"WorldGrade":71.73,
+	"WorldClassification":"B",
+	"RegionGrade":71.73,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"5DFC1EEBE04055B2C491307B1EE30B38",
+	"CompNm":"De Pano, Noel",
+	"Region":"PHI",
+	"WorldGrade":71.16,
+	"WorldClassification":"B",
+	"RegionGrade":96.43,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"94823C26997CAC05009DD0B2773A8C76",
+	"CompNm":"Lau, Ying Tung",
+	"Region":"HKG",
+	"WorldGrade":70.92,
+	"WorldClassification":"B",
+	"RegionGrade":70.92,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"22568AFD1C47C09F04C6394FC053C323",
+	"CompNm":"Chow, Hang Chun",
+	"Region":"HKG",
+	"WorldGrade":70.56,
+	"WorldClassification":"B",
+	"RegionGrade":70.56,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"D54967B84FF6E89832A2B5636E4FAACB",
+	"CompNm":"Lai, Shu",
+	"Region":"TPE",
+	"WorldGrade":69.78,
+	"WorldClassification":"B",
+	"RegionGrade":79.54,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"37D1F9254D0F033F98A4FAA658F72CDB",
+	"CompNm":"Babayan, Mikhail G",
+	"Region":"RUS",
+	"WorldGrade":68.73,
+	"WorldClassification":"B",
+	"RegionGrade":86.19,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"3B67A110C028EA705B9715FAA2D2D1BA",
+	"CompNm":"Chang, Zhao",
+	"Region":"CHN",
+	"WorldGrade":67.96,
+	"WorldClassification":"B",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"B0236F10D1EF71BF3D76F9AEF9E8513A",
+	"CompNm":"Semenov, Kirill A",
+	"Region":"RUS",
+	"WorldGrade":67.54,
+	"WorldClassification":"B",
+	"RegionGrade":85,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"719AB99D069A9832CB46373F0EF16289",
+	"CompNm":"Goryunov, Aleksandr S",
+	"Region":"RUS",
+	"WorldGrade":66.32,
+	"WorldClassification":"B",
+	"RegionGrade":83.78,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"7D97DF1D7787680FCEC1833033FFDFED",
+	"CompNm":"Li, Yanbing",
+	"Region":"CHN",
+	"WorldGrade":66.25,
+	"WorldClassification":"B",
+	"RegionGrade":98.29,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"1E11FC800ABF7FF7C51BA05F4C71EC45",
+	"CompNm":"Baklag, Arseniy M",
+	"Region":"RUS",
+	"WorldGrade":66.02,
+	"WorldClassification":"B",
+	"RegionGrade":83.48,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"FA64770F604809462CBE92B0D4F40B3A",
+	"CompNm":"Mok, Ka Yan",
+	"Region":"HKG",
+	"WorldGrade":65.85,
+	"WorldClassification":"B",
+	"RegionGrade":65.85,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"83D82537F930371BFE11C83FC6BEE7FD",
+	"CompNm":"Ligon, Christopher",
+	"Region":"PHI",
+	"WorldGrade":65.77,
+	"WorldClassification":"B",
+	"RegionGrade":91.04,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"5AE9857AC3434E539A03B0B0C56515BA",
+	"CompNm":"Shmelev, Maksim O",
+	"Region":"RUS",
+	"WorldGrade":65.48,
+	"WorldClassification":"B",
+	"RegionGrade":82.94,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"C5604BE068C750CEA309F2B7FC007F0C",
+	"CompNm":"Dorofeev, Mikhail A",
+	"Region":"RUS",
+	"WorldGrade":64.28,
+	"WorldClassification":"B",
+	"RegionGrade":81.74,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"382ECB85200209946E968351811FD5B8",
+	"CompNm":"Arslan, Avid",
+	"Region":"MN",
+	"WorldGrade":64.21,
+	"WorldClassification":"B",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"D87DF6C233C1529F6417740713F25C07",
+	"CompNm":"Chen, Yi Hong",
+	"Region":"TPE",
+	"WorldGrade":63.03,
+	"WorldClassification":"B",
+	"RegionGrade":72.79,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"9F74D0F006F0DF3E8B531EE3E7D1A858",
+	"CompNm":"Tham, Chee Wah",
+	"Region":"SIN",
+	"WorldGrade":62.83,
+	"WorldClassification":"B",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"563E8DDF3F7954CBCCC86A96245AD554",
+	"CompNm":"Tam, Wai Kit",
+	"Region":"HKG",
+	"WorldGrade":62.73,
+	"WorldClassification":"B",
+	"RegionGrade":62.73,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"946E756B7656E898BE48ECB858A61110",
+	"CompNm":"Li, Chun Hang",
+	"Region":"HKG",
+	"WorldGrade":61.67,
+	"WorldClassification":"B",
+	"RegionGrade":61.67,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"1A453B5A237FA21D0344CA5C6E56C602",
+	"CompNm":"Orlov, Aleksey A",
+	"Region":"RUS",
+	"WorldGrade":61.52,
+	"WorldClassification":"B",
+	"RegionGrade":78.98,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"E93DF885166F260D3D352C112381EA6A",
+	"CompNm":"Zhou, Mengwei",
+	"Region":"CHN",
+	"WorldGrade":61.3,
+	"WorldClassification":"B",
+	"RegionGrade":93.34,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"61E3A1356B69D553682D635FC9B1E840",
+	"CompNm":"Ku, Ling Kiu",
+	"Region":"HKG",
+	"WorldGrade":61.29,
+	"WorldClassification":"B",
+	"RegionGrade":61.29,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"DAA2EAB58FE90FE280BB67959559577A",
+	"CompNm":"Wan, Siu Hei Kevin",
+	"Region":"HKG",
+	"WorldGrade":61.22,
+	"WorldClassification":"B",
+	"RegionGrade":61.22,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"3544135045973EA65838425B48A8BE0F",
+	"CompNm":"Ulep, Joel John",
+	"Region":"PHI",
+	"WorldGrade":60.88,
+	"WorldClassification":"B",
+	"RegionGrade":86.15,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"9F1F966F618050DBFE8157D625C6428E",
+	"CompNm":"Yakimova, Ekaterina A",
+	"Region":"RUS",
+	"WorldGrade":60.63,
+	"WorldClassification":"B",
+	"RegionGrade":78.09,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"91848720219BC402C4563EA7DE0D67D8",
+	"CompNm":"Lin, Kuan Chou",
+	"Region":"TPE",
+	"WorldGrade":60.08,
+	"WorldClassification":"B",
+	"RegionGrade":69.84,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"6D650F405DD2830528EAE47B88E91A3F",
+	"CompNm":"Yang, Kai Hsiang",
+	"Region":"TPE",
+	"WorldGrade":59.69,
+	"WorldClassification":"C",
+	"RegionGrade":69.45,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"26919DB3511C07CFA5DBFB6E03D0C44E",
+	"CompNm":"Ovsyannikov, Daniil L",
+	"Region":"RUS",
+	"WorldGrade":58.93,
+	"WorldClassification":"C",
+	"RegionGrade":76.39,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"EF6AD19394F9DC2121B7927584C0FE13",
+	"CompNm":"Lam, Ka Ying",
+	"Region":"HKG",
+	"WorldGrade":58.51,
+	"WorldClassification":"C",
+	"RegionGrade":58.51,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"7BF6CBAE8E4CC5776863347B539D393C",
+	"CompNm":"Laranang, Martius",
+	"Region":"PHI",
+	"WorldGrade":58.28,
+	"WorldClassification":"C",
+	"RegionGrade":83.55,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"8507D37AE3CBF1D4B3F591C2ECE859AB",
+	"CompNm":"Mokrousova, Alina D",
+	"Region":"RUS",
+	"WorldGrade":58.05,
+	"WorldClassification":"C",
+	"RegionGrade":75.51,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"1FE7FF06373D31D31D0E706FDCF2D840",
+	"CompNm":"Lavrentev, Andrey",
+	"Region":"RUS",
+	"WorldGrade":57.96,
+	"WorldClassification":"C",
+	"RegionGrade":75.42,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"083357B1102A944B5CA20B902238AAD6",
+	"CompNm":"Gordeichuk, Elena",
+	"Region":"RUS",
+	"WorldGrade":57.47,
+	"WorldClassification":"C",
+	"RegionGrade":74.93,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"F9A39AE01A3151CAB3EAA0E6D0A29D8C",
+	"CompNm":"Kozlov, Aleksey V",
+	"Region":"RUS",
+	"WorldGrade":57.03,
+	"WorldClassification":"C",
+	"RegionGrade":74.49,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"111CD1D28BE3F713C4747911183B592F",
+	"CompNm":"Ong, Ziwei Fabian",
+	"Region":"SIN",
+	"WorldGrade":57.03,
+	"WorldClassification":"C",
+	"RegionGrade":94.2,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"3E113E2B820228F4465A60230432AC11",
+	"CompNm":"Romanov, Mikhail Y",
+	"Region":"RUS",
+	"WorldGrade":56.64,
+	"WorldClassification":"C",
+	"RegionGrade":74.1,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"2B7B5B103C01D5EA41B41ADF0028D2D3",
+	"CompNm":"Shvets, Dmitriy A",
+	"Region":"RUS",
+	"WorldGrade":56.53,
+	"WorldClassification":"C",
+	"RegionGrade":73.99,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"31F433ED5AFFEBB3E6C7E3AA4D8FF397",
+	"CompNm":"Damdin, Davaa-ochir",
+	"Region":"MN",
+	"WorldGrade":56.37,
+	"WorldClassification":"C",
+	"RegionGrade":92.16,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"AE2975DE82D192B17661727324A3D75B",
+	"CompNm":"Latunova, Olga A",
+	"Region":"RUS",
+	"WorldGrade":56.15,
+	"WorldClassification":"C",
+	"RegionGrade":73.61,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"FC7981661831BAC91E6DB784870FD9DA",
+	"CompNm":"Gallardo, Dick",
+	"Region":"PHI",
+	"WorldGrade":55.93,
+	"WorldClassification":"C",
+	"RegionGrade":81.2,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"6FBC647373288A6D80F7B3BB3DE7656B",
+	"CompNm":"Chen, Kuang Pu",
+	"Region":"TPE",
+	"WorldGrade":55.85,
+	"WorldClassification":"C",
+	"RegionGrade":65.61,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"F20420810C0F73C6439CAE39DFAF04CA",
+	"CompNm":"Sidorovich, Vladimir V",
+	"Region":"RUS",
+	"WorldGrade":55.83,
+	"WorldClassification":"C",
+	"RegionGrade":73.29,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"BE72B6900347E33E510510C34202FED5",
+	"CompNm":"Lau, Kinson",
+	"Region":"HKG",
+	"WorldGrade":54.3,
+	"WorldClassification":"C",
+	"RegionGrade":54.3,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"559710C73DD35F805CCE59C00FBCDD68",
+	"CompNm":"Li, Hon Yiu Matthew",
+	"Region":"HKG",
+	"WorldGrade":54.18,
+	"WorldClassification":"C",
+	"RegionGrade":54.18,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"5CF090AFE7D64644F357CB242344BA5A",
+	"CompNm":"Krupenin, Vladimir N",
+	"Region":"RUS",
+	"WorldGrade":53.66,
+	"WorldClassification":"C",
+	"RegionGrade":71.12,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"4FEFB1D380E9B2715325D13C22A01C77",
+	"CompNm":"Oligario, Belinda",
+	"Region":"PHI",
+	"WorldGrade":53.56,
+	"WorldClassification":"C",
+	"RegionGrade":78.83,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"5F6DE9177E83A5429D8B25329FB97669",
+	"CompNm":"Gantulga, Erdenetulga",
+	"Region":"MGL",
+	"WorldGrade":53.52,
+	"WorldClassification":"C",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"420758ABBB91FA0D4C2723F0C0D1D845",
+	"CompNm":"Avid, Arslan",
+	"Region":"MGL",
+	"WorldGrade":53.08,
+	"WorldClassification":"C",
+	"RegionGrade":99.56,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"5AA2394809DA7D3828A952565995CBB0",
+	"CompNm":"Mungun-ochir, Tumurtulga",
+	"Region":"MN",
+	"WorldGrade":51.92,
+	"WorldClassification":"C",
+	"RegionGrade":87.71,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"4DF92FE82718E45E2096D1DCA8EE2C00",
+	"CompNm":"Arsenieva, Anastasia",
+	"Region":"RUS",
+	"WorldGrade":51.73,
+	"WorldClassification":"C",
+	"RegionGrade":69.19,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"AFFA4C9809C7CAEF32BD539A91A8739A",
+	"CompNm":"Chen, Yong",
+	"Region":"CHN",
+	"WorldGrade":51.27,
+	"WorldClassification":"C",
+	"RegionGrade":83.31,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"DBDCEC5F388D719E30AEC37EFFD57078",
+	"CompNm":"Baasanbyamba, Erdenechuluun",
+	"Region":"MGL",
+	"WorldGrade":50.39,
+	"WorldClassification":"C",
+	"RegionGrade":96.87,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"FD0193D7ACC7B50975DE91DD9AAD9033",
+	"CompNm":"Vinnichenko, Matvey V",
+	"Region":"RUS",
+	"WorldGrade":50.39,
+	"WorldClassification":"C",
+	"RegionGrade":67.85,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"262D2FC1E7BAC8675AB22F0D0DA6554C",
+	"CompNm":"Zhuang, Qi",
+	"Region":"CHN",
+	"WorldGrade":49.66,
+	"WorldClassification":"C",
+	"RegionGrade":81.7,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"029020DF4BE18B9D169A691147570F8F",
+	"CompNm":"Grinets, Denis V",
+	"Region":"RUS",
+	"WorldGrade":49.49,
+	"WorldClassification":"C",
+	"RegionGrade":66.95,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"12923D1C6806600CF33900650C2A692C",
+	"CompNm":"Xie, Peng",
+	"Region":"CHN",
+	"WorldGrade":48.78,
+	"WorldClassification":"C",
+	"RegionGrade":80.82,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"A63CB3EE6927E6BD60207CCDC899FD19",
+	"CompNm":"Chan, Brendan",
+	"Region":"PNG",
+	"WorldGrade":48.75,
+	"WorldClassification":"C",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"CD62077F62E46FB6C1CF0241B5018FA5",
+	"CompNm":"Bekhbat, Dorjbat",
+	"Region":"MGL",
+	"WorldGrade":48.5,
+	"WorldClassification":"C",
+	"RegionGrade":94.98,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"1A8BD3302F62A1686D04D34F2468929E",
+	"CompNm":"Lee, Chiao Han",
+	"Region":"TPE",
+	"WorldGrade":48.35,
+	"WorldClassification":"C",
+	"RegionGrade":58.11,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"EF7597BEF1C050D51458864828951A9B",
+	"CompNm":"Jiang, Dongfang",
+	"Region":"CHN",
+	"WorldGrade":48.24,
+	"WorldClassification":"C",
+	"RegionGrade":80.28,
+	"RegionClassification":"A"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"AF7510240F51FC11CB800A75330E96DF",
+	"CompNm":"Lee, Wai Fung",
+	"Region":"HKG",
+	"WorldGrade":47.57,
+	"WorldClassification":"C",
+	"RegionGrade":47.57,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"0BD5942CA70B5262EA0E93377D7CA2CF",
+	"CompNm":"Puzyrev, Valeriy A",
+	"Region":"RUS",
+	"WorldGrade":47.22,
+	"WorldClassification":"C",
+	"RegionGrade":64.68,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"0E36DC42CF12D5786C0A3FE83E50F8CB",
+	"CompNm":"Burnin, Pavel M",
+	"Region":"RUS",
+	"WorldGrade":47.17,
+	"WorldClassification":"C",
+	"RegionGrade":64.63,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"206679CAA287B4785206D899D25F2C1E",
+	"CompNm":"Gorokhov, Aleksey O",
+	"Region":"RUS",
+	"WorldGrade":46.85,
+	"WorldClassification":"C",
+	"RegionGrade":64.31,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"67C760DE3BBCB95129678AF7368E6A71",
+	"CompNm":"Livankov, Dmitriy Y",
+	"Region":"RUS",
+	"WorldGrade":44.68,
+	"WorldClassification":"C",
+	"RegionGrade":62.14,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"2C9F09950917AEE3340FE810087400EC",
+	"CompNm":"Telitchenko, Ilya A",
+	"Region":"RUS",
+	"WorldGrade":44.65,
+	"WorldClassification":"C",
+	"RegionGrade":62.11,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"2EB855892DAE3F3E670693C6BC5C3287",
+	"CompNm":"Agafonova, Iuliia",
+	"Region":"RUS",
+	"WorldGrade":44.47,
+	"WorldClassification":"C",
+	"RegionGrade":61.93,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"D1C70AF3DB69E3CDCA02C00AA30F9596",
+	"CompNm":"Devichenskiy, Denis A",
+	"Region":"RUS",
+	"WorldGrade":43.35,
+	"WorldClassification":"C",
+	"RegionGrade":60.81,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"1493836E74FE88190733F1F0BB4EC195",
+	"CompNm":"Semenov, Andrey V",
+	"Region":"RUS",
+	"WorldGrade":43.31,
+	"WorldClassification":"C",
+	"RegionGrade":60.77,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"E87A68C63FC4F2A2C56E60A0142AEBFC",
+	"CompNm":"Li, Chun Hung",
+	"Region":"HKG",
+	"WorldGrade":42.57,
+	"WorldClassification":"C",
+	"RegionGrade":42.57,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"61E5CA96E9E0039111A262E82E402D51",
+	"CompNm":"Gryzhov, Egor V",
+	"Region":"RUS",
+	"WorldGrade":42.55,
+	"WorldClassification":"C",
+	"RegionGrade":60.01,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"0624A3A7C0C51B139357A00768E83F63",
+	"CompNm":"Gavrilin, Gennadiy M",
+	"Region":"RUS",
+	"WorldGrade":40.68,
+	"WorldClassification":"C",
+	"RegionGrade":58.14,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"DDDE32D512D9D2CEC3F37D4870AA2095",
+	"CompNm":"Lu, Chengxun",
+	"Region":"CHN",
+	"WorldGrade":40.07,
+	"WorldClassification":"C",
+	"RegionGrade":72.11,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"3FEF911AF317A7E259D0EF360E881C3E",
+	"CompNm":"Vasyeva, Vasilisa P",
+	"Region":"RUS",
+	"WorldGrade":39.89,
+	"WorldClassification":"D",
+	"RegionGrade":57.35,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"E1085ACF209B55BAA1A00D0984FF0D74",
+	"CompNm":"Yang, Jie",
+	"Region":"CHN",
+	"WorldGrade":39.49,
+	"WorldClassification":"D",
+	"RegionGrade":71.53,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"40C55857E14A82AA82D790968EAE5F18",
+	"CompNm":"Babkin, Viktor A",
+	"Region":"RUS",
+	"WorldGrade":38.06,
+	"WorldClassification":"D",
+	"RegionGrade":55.52,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"3641109C732179B42CA4C77C7259C04A",
+	"CompNm":"Li, Bo",
+	"Region":"CHN",
+	"WorldGrade":37.77,
+	"WorldClassification":"D",
+	"RegionGrade":69.81,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"AC823285AE798FD596965103986B3130",
+	"CompNm":"Tagaev, Alisher",
+	"Region":"RUS",
+	"WorldGrade":36.73,
+	"WorldClassification":"D",
+	"RegionGrade":54.19,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"CF5C1EEC967987790D2F2D2940538E44",
+	"CompNm":"Seeto, Roderick",
+	"Region":"PNG",
+	"WorldGrade":36.65,
+	"WorldClassification":"D",
+	"RegionGrade":87.9,
+	"RegionClassification":"M"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"BFFB1C1C38D5F7526A13646B805E7703",
+	"CompNm":"Pavlova, Yana V",
+	"Region":"RUS",
+	"WorldGrade":36.09,
+	"WorldClassification":"D",
+	"RegionGrade":53.55,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"8FBBDF4B02C8E5138B3DB9A33344D103",
+	"CompNm":"Lam, Chong Io",
+	"Region":"MAC",
+	"WorldGrade":36.06,
+	"WorldClassification":"D",
+	"RegionGrade":100,
+	"RegionClassification":"GM"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"B76750EB0E0DD24869E311A5D4E60209",
+	"CompNm":"Che, Vadim A",
+	"Region":"RUS",
+	"WorldGrade":35.97,
+	"WorldClassification":"D",
+	"RegionGrade":53.43,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"3F2464749274B1F909D4C2DC81A534E2",
+	"CompNm":"Nechaev, Aleksey S",
+	"Region":"RUS",
+	"WorldGrade":35.79,
+	"WorldClassification":"D",
+	"RegionGrade":53.25,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"41DEABC28FD7D41AA0C0EB75FCC78105",
+	"CompNm":"Ermakovich, Ilya O",
+	"Region":"RUS",
+	"WorldGrade":35.6,
+	"WorldClassification":"D",
+	"RegionGrade":53.06,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"457B4A833BD54FB069E39E3FE0D17345",
+	"CompNm":"Chen, Huanming",
+	"Region":"CHN",
+	"WorldGrade":35.39,
+	"WorldClassification":"D",
+	"RegionGrade":67.43,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"0F49612162A7723F62378BEB612AB88C",
+	"CompNm":"Yu, Wei",
+	"Region":"CHN",
+	"WorldGrade":35,
+	"WorldClassification":"D",
+	"RegionGrade":67.04,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"7B37A08F4674FD551CE70D7AE50F2D4A",
+	"CompNm":"Momot, Aleksandr A",
+	"Region":"RUS",
+	"WorldGrade":34.54,
+	"WorldClassification":"D",
+	"RegionGrade":52,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"BEC0BE4D907DEA25B8350135ACE90B64",
+	"CompNm":"Fu, Pongyeung",
+	"Region":"CHN",
+	"WorldGrade":33.12,
+	"WorldClassification":"D",
+	"RegionGrade":65.16,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"2264318D99C332315C9FAB5554440E28",
+	"CompNm":"Zou, Yushan",
+	"Region":"CHN",
+	"WorldGrade":32.82,
+	"WorldClassification":"D",
+	"RegionGrade":64.86,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"B28F099561EFAD77F6D03EFF2F001022",
+	"CompNm":"Jiang, Weiming",
+	"Region":"CHN",
+	"WorldGrade":32.8,
+	"WorldClassification":"D",
+	"RegionGrade":64.84,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"3C934E5DBB062136D70E19B64378CFB0",
+	"CompNm":"Wu, Lunyong",
+	"Region":"CHN",
+	"WorldGrade":32.71,
+	"WorldClassification":"D",
+	"RegionGrade":64.75,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"3DCBA43EF1E5A7FAC41A44608BD43E25",
+	"CompNm":"Skvortsov, Yakov K",
+	"Region":"RUS",
+	"WorldGrade":32.55,
+	"WorldClassification":"D",
+	"RegionGrade":50.01,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"B677F80EB0114D3A99457A6611799D1F",
+	"CompNm":"Li, Yanjie",
+	"Region":"CHN",
+	"WorldGrade":31.87,
+	"WorldClassification":"D",
+	"RegionGrade":63.91,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"C6A103BBEFD409C105B94FF340A6CB71",
+	"CompNm":"Akishin, Ilya S",
+	"Region":"RUS",
+	"WorldGrade":31.84,
+	"WorldClassification":"D",
+	"RegionGrade":49.3,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"6E6BEEA0B7EDE06E8E4822EDD98CB87C",
+	"CompNm":"Volkova, Aleksandra V",
+	"Region":"RUS",
+	"WorldGrade":31.33,
+	"WorldClassification":"D",
+	"RegionGrade":48.79,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"661AE24F3684C497AE327D97BF22893E",
+	"CompNm":"Yusupov, Kirill S",
+	"Region":"RUS",
+	"WorldGrade":31.13,
+	"WorldClassification":"D",
+	"RegionGrade":48.59,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"74B4E2367B060EC8E44A816911E4647E",
+	"CompNm":"Telitchenko, Anna I",
+	"Region":"RUS",
+	"WorldGrade":28.75,
+	"WorldClassification":"D",
+	"RegionGrade":46.21,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"EBD7377D19E40C179E2D89AB9F8008BA",
+	"CompNm":"Kozynbaeva, Valeriya L",
+	"Region":"RUS",
+	"WorldGrade":26.21,
+	"WorldClassification":"D",
+	"RegionGrade":43.67,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"AEAA63FBF9C2BF0CA91A852B2F3826A7",
+	"CompNm":"Trynkin, Mikhail A",
+	"Region":"RUS",
+	"WorldGrade":23.73,
+	"WorldClassification":"D",
+	"RegionGrade":41.19,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"683042CC09E6EE0F3851257030614129",
+	"CompNm":"Ivanov, Dmitriy R",
+	"Region":"RUS",
+	"WorldGrade":23.41,
+	"WorldClassification":"D",
+	"RegionGrade":40.87,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"858D5E5BC1917049E85532EBF7C42E70",
+	"CompNm":"Postnov, Ivan A",
+	"Region":"RUS",
+	"WorldGrade":22.95,
+	"WorldClassification":"D",
+	"RegionGrade":40.41,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"D6F549BB788117E448BE6C1706904496",
+	"CompNm":"Uvarov, Ignat I",
+	"Region":"RUS",
+	"WorldGrade":22.76,
+	"WorldClassification":"D",
+	"RegionGrade":40.22,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"5B586043C1B5D8971E62806E47914D0E",
+	"CompNm":"Daniels, Genevieve",
+	"Region":"PNG",
+	"WorldGrade":21.79,
+	"WorldClassification":"D",
+	"RegionGrade":73.04,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"2780711EC6F2E6006A6AAE9AADF623F3",
+	"CompNm":"Reu, Alfred",
+	"Region":"PNG",
+	"WorldGrade":18.79,
+	"WorldClassification":"D",
+	"RegionGrade":70.04,
+	"RegionClassification":"B"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"BC65A205DC12A5279656BFE4B92D3573",
+	"CompNm":"Nikiforenko, Ilya A",
+	"Region":"RUS",
+	"WorldGrade":17.37,
+	"WorldClassification":"D",
+	"RegionGrade":34.83,
+	"RegionClassification":"D"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"F9C6E008DC50DEBC652233F7858420C4",
+	"CompNm":"Kunyakin, Aleksandr S",
+	"Region":"RUS",
+	"WorldGrade":13.24,
+	"WorldClassification":"D",
+	"RegionGrade":30.7,
+	"RegionClassification":"D"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"A80A1A625E5AC4B4B3792DFF7E52B777",
+	"CompNm":"Volkov, Matvey M",
+	"Region":"RUS",
+	"WorldGrade":8.9,
+	"WorldClassification":"D",
+	"RegionGrade":26.36,
+	"RegionClassification":"D"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"3B2509863A091D211F0FBCF4FB76177A",
+	"CompNm":"Torgashov, Pavel",
+	"Region":"RUS",
+	"WorldGrade":3.56,
+	"WorldClassification":"D",
+	"RegionGrade":21.02,
+	"RegionClassification":"D"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"A6DFD45BE9D76FAEC78BEA2FB1593953",
+	"CompNm":"Wong, James",
+	"Region":"PNG",
+	"WorldGrade":0,
+	"WorldClassification":"D",
+	"RegionGrade":51.25,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"BC404C048630541572D468AD0DACDE42",
+	"CompNm":"Son, Jimmy",
+	"Region":"PNG",
+	"WorldGrade":0,
+	"WorldClassification":"D",
+	"RegionGrade":51.25,
+	"RegionClassification":"C"
+},
+{
+	"Division":"Production",
+	"CompetitorId":"036EF45EE2375EF18B982005E4C8D54B",
+	"CompNm":"Wei, Oscar",
+	"Region":"PNG",
+	"WorldGrade":0,
+	"WorldClassification":"D",
+	"RegionGrade":51.25,
+	"RegionClassification":"C"
+}
+]

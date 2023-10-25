@@ -18,7 +18,13 @@
     <Columns>
         @foreach (var fieldDescriptor in FieldViewDescriptors)
         {
-            <RadzenDataGridColumn TItem="TItem" Property="@fieldDescriptor.Property" Filterable="@fieldDescriptor.Filterable" Title="@fieldDescriptor.Title" FormatString="@fieldDescriptor.FormatString" />
+            <RadzenDataGridColumn
+                TItem="TItem"
+                Property="@fieldDescriptor.Property"
+                Filterable="@fieldDescriptor.Filterable"
+                Title="@fieldDescriptor.Title"
+                FormatString="@fieldDescriptor.FormatString"
+            />
         }
     </Columns>
 </RadzenDataGrid>

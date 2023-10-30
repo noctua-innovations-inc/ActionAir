@@ -29,7 +29,13 @@
 
 <h3>C# Data Annotations</h3>
 <p>Microsoft Data Annotations, often referred to as "Data Annotations," is a set of <b>C# Attributes</b> that are part of the System.ComponentModel.DataAnnotations namespace in the .NET framework. These attributes provide a declarative way to add metadata and validation rules to classes and properties in C# or VB.NET. They are commonly used for data validation, specifying formatting rules, and other data-related tasks. Data Annotations are frequently employed in various parts of .NET, including ASP.NET MVC, Entity Framework, and more.</p>
-<p>Data Annototations are well established C# Attributes that first became generally available on April 12, 2010.<p>
+<h4>C# Data Annotations</h4>
+<ul>
+<li>Are a <b>Cross-Cutting Concern</b>, because they are not specific to a particular data object element.</li>
+<li>Have the <b>Single Responsibility</b> of associating metadata to code elements.</li>
+<li>Facilitate the <b>Open-Closed Principle</b> by extending functionality without directly modifying the implementation.</li>
+<li>Are well established C# Attributes that first became generally available on April 12, 2010.</li>
+</ul>
 
 <h3>Data Transfer Object (DTO) & Entity Framework Plain Old C# Object (POCO)</h3>
 <p>A Data Transfer Object (DTO) is a design pattern used in software development to transfer data between different parts of a program or between different software systems. DTOs are simple, plain data structures that typically represent a subset of data from a more complex domain model or database entity. They are primarily used for efficiently passing data between layers of an application, such as between a client and a server, or between different components of a software system.</p>

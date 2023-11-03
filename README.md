@@ -12,11 +12,6 @@
     <li><a target="_blank" href="https://dev.azure.com/noctua-innovations/_git/Blazor%20Dynamic%20View%20Generation?path=/ActionAir/Components/NoctuaDataGrid.razor">Generate the grid view using the field view descriptor collection...</a></li>
 </ul>
 
-<h2>Example:</h2>
-<ul style="list-style: none;">
-    <li><a target="_blank" href="https://action-air.ipscresults.org/#Open">IPSC Action Air Classifications</a></li>
-</ul>
-
 <h2>Glossary</h2>
 
 <h3>Microsoft Blazor</h3>
